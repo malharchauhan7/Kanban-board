@@ -1,4 +1,4 @@
-# KanBoardban&#x20;
+# KanbanBaord&#x20;
 
 A **Kanban Board** built using **TypeScript, React, Electron-Vite, TailwindCSS, and Framer Motion**, designed for efficient task management in a desktop environment. This application provides an intuitive and visually appealing interface for organizing tasks into different stages of progress.
 
