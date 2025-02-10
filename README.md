@@ -1,14 +1,32 @@
-# Kanban Board
-A Kanban board is a visual tool that helps teams manage projects by organizing work into columns and cards. The word "Kanban" is Japanese for "visual signal". 
+# KanBoardban&#x20;
 
-## How it works 
-- Columns: Represent activities in a workflow, such as "to do", "in progress", and "done"
-- Cards: Represent tasks that move through the workflow
-- Work-in-progress (WIP) limits: Set the maximum number of tasks that can be in a column at any given time
-- Swimlanes: Categorize issues by criteria like user or issue type
+A **Kanban Board** built using **TypeScript, React, Electron-Vite, TailwindCSS, and Framer Motion**, designed for efficient task management in a desktop environment. This application provides an intuitive and visually appealing interface for organizing tasks into different stages of progress.
 
-## Benefits 
-- Helps teams visualize their work
-- Helps teams identify bottlenecks and improve workflow
-- Helps teams maintain a steady flow of work
-- Helps teams commit to the right amount of work
+## 🚀 Features
+
+### 🖥️ Desktop Application
+
+- Built using **Electron-Vite**, ensuring a fast and lightweight experience.
+- Works as a **standalone** offline Kanban board for personal productivity or team collaboration.
+
+### ⚡ Core Features
+
+- **Task Management:** Create, update, and delete tasks easily.
+- **Drag & Drop Functionality:** Move tasks seamlessly between different columns.
+- **Customizable Columns:** Add, rename, or delete columns as needed.
+- **Persistent Storage:** Saves tasks even after the app is closed.
+- **Dark Mode Support:** Provides a visually appealing experience with dark and light themes.
+- **Smooth Animations:** Uses **Framer Motion** for fluid transitions and interactions.
+- **Responsive Design:** Styled with **TailwindCSS** for a modern and adaptive UI.
+
+## 🛠️ Tech Stack
+
+- **TypeScript** – Ensures type safety and maintainability.
+- **React** – Provides a fast and efficient UI.
+- **Electron-Vite** – Optimizes Electron development with hot reloading.
+- **TailwindCSS** – Enables a sleek and responsive design.
+- **Framer Motion** – Enhances UI animations and transitions.
+
+**Built with ❤️ using TypeScript, React, Electron-Vite, TailwindCSS, and Framer Motion.**
+
+Credit : https://www.youtube.com/watch?v=O5lZqqy7VQE&ab_channel=TomIsLoading
